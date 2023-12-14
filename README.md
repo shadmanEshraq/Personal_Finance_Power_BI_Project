@@ -9,7 +9,8 @@
 
 <!-- Comment : Project Description-->
 
-# 📣 Personal Finances Dashboard  
+# 📣 Personal Finances Dashboard 
+--- 
 
 <p align="center"> A simple Power BI dashboard visualizing personal finances. 
     <br> 
@@ -56,10 +57,6 @@ Together, they dive into the analysis, striving to create a comprehensive financ
 ⭕ Embedding Power BI and Data Analytics in daily life 
 
 ⭕ Implementation of the Bring Your Own Data (BYOD) concept
-
-The live dashboard is available here : 
-
-<iframe title="Personal_Finance_Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODIwNjgzYWEtZTNhMi00NDhhLTgwNDMtYTJlNGUxOTVmYTViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 The live dashboard is available [here](https://www.novypro.com/project/personal-finance-dashboard-power-bi).
 
