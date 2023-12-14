@@ -9,8 +9,7 @@
 
 <!-- Comment : Project Description-->
 
-# 📣 Personal Finances Dashboard 
---- 
+# 📣 Personal Finances Dashboard  
 
 <p align="center"> A simple Power BI dashboard visualizing personal finances. 
     <br> 
